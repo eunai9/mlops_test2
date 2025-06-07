@@ -1,0 +1,30 @@
+{
+  "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python": "CPython 3.10.16",
+  "startedAt": "2025-06-06T18:26:48.069298Z",
+  "program": "/home/eunai9/mlops-test/train_logging.py",
+  "codePath": "train_logging.py",
+  "git": {
+    "remote": "https://github.com/eunai9/mlops-test.git",
+    "commit": "cf65984227646845880325d5ddf34c941b946d6e"
+  },
+  "root": "/home/eunai9/mlops-test",
+  "host": "LAPTOP-4DRRVL2I",
+  "executable": "/home/eunai9/anaconda3/envs/py310/bin/python",
+  "codePathLocal": "train_logging.py",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "21911969792"
+    }
+  },
+  "memory": {
+    "total": "8175927296"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  }
+}

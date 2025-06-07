@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "remote_storage"']
+    url = gs://mlops-test-0604/
+['remote "storage"']
+    url = gs://mlops-test-0604/
