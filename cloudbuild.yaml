@@ -7,7 +7,7 @@ steps:
     '-t',
     'europe-west1-docker.pkg.dev/$PROJECT_ID/gcloud-ex/image1',
     '-f',
-    '<path-to-dockerfile>'
+    '.'
   ]
 - name: 'gcr.io/cloud-builders/docker'
   id: 'Push container image'
